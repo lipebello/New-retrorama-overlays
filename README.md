@@ -1,2 +1,3 @@
 # New-retrorama-overlays
 new overlays for plane crt shaders.
+It is forbidden to edit content without prior authorization and use in any kind of commercial way
